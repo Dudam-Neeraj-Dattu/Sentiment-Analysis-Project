@@ -20,5 +20,8 @@ This repository contains information and resources related to the sentiment anal
    - If a folder contains a file named `1.0 progress report.pdf` and you make changes to it, save the new version as `1.1 progress report.pdf` instead of overwriting the previous one.
    - This approach allows us to easily locate the latest version and access all previous versions without relying on version control systems to trace back changes.
 
+5. **Important**:
+   - Always fetch the latest changes from the repository before making any modifications. This ensures that you are working with the most up-to-date version of the project and helps to avoid merge conflicts.
+
 By following these rules, we can ensure that the project remains well-organized and that all changes are easily traceable.
 
