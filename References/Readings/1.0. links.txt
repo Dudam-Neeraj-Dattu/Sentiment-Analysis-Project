@@ -1,0 +1,8 @@
+Websites for NLP
+
+https://www.analyticsvidhya.com/blog/category/nlp/
+https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/
+
+Furthur readings:
+https://www.analyticsvidhya.com/blog/2025/01/sentiment-analysis-using-modernbert/
+
